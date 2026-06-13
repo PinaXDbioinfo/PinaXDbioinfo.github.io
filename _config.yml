@@ -1,10 +1,10 @@
 # Site settings
-title: Piña Data Lab
+title: "Piña Data Lab"
 email: jeramirezp.pdl@gmail.com
-url: PinaXDbioinfo.github.io
+url: "https://pinaxdbioinfo.github.io"
 description: "Consultoría en Análisis de Datos e Inteligencia de Negocio"
 keywords: "Dashboard, bioinformatica, Análisis de datos, estadistica"
-skills: "Dashboards ejecutivos y operativos - limpieza de datos - análiisis estadistico - descarga de datos - automatización - bioinformática"
+skills: "Dashboards ejecutivos y operativos - limpieza de datos - análisis estadistico - descarga de datos - automatización - bioinformática"
 meta_author: José Emilio Ramírez Piña
 
 # Google webmaster tools
@@ -26,13 +26,13 @@ disqus_shortname: myshortname
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 0e752a #0e752a
-  primary-rgb: "24,288,156" #"128,179,255"
+  primary-rgb: "14,117,42" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 170f70 #170f70
 
 # Footer settings
 footer:
-copyright: José Emilio Ramírez Piña
+  copyright: José Emilio Ramírez Piña
   location: Location
   social: Redes y otros medios de contacto
   credits: Creditos
