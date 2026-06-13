@@ -21,10 +21,10 @@ $(function() {
                 url: "././mail/contact_me.php",
                 type: "POST",
                 data: {
-                    name: name,
-                    phone: phone,
+                    name: nombre,
+                    phone: teléfono,
                     email: email,
-                    message: message
+                    message: mensaje
                 },
                 cache: false,
                 success: function() {
