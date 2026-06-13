@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2025-02-1
+img: monitoreo_CC.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Dashboard operativo
+description: Dashboard operativos para el monitoreo de llamadas y su efectividad de los asesores de contact center
+link: https://datastudio.google.com/reporting/9dd8bcd8-3c21-41a3-9f78-49e7cda743fa
 ---
