@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ECDF Plotter para Comparación de Distribuciones
+title: ECDF Plotter
 modal-id: 4
 date: 2025-04-01
 img: ECDF_Output_example.png
@@ -8,6 +8,6 @@ alt: image-alt
 project-date: Abril 2025
 client: Proyecto de maestría
 category: Automatización de obtención de datos
-description: Script automatizado en R para comparación de distribuciones.
+description: Script automatizado en R para realizar gráfica de distribuciones acumulutivas empiricas (ECDF) y prueba de Kolmogorov-smirnov.
 link: https://github.com/PinaXDbioinfo/Data-analyse-tools/tree/main/ECDFplotter
 ---
