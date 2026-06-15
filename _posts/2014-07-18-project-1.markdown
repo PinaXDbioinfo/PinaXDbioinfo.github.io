@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Monitoreo del Contact Center
 modal-id: 1
 date: 2025-02-1
 img: monitoreo_CC.png
