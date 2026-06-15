@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2026-04-01
+img: geocodeflow.png
+alt: image-alt
+project-date: Abril 2026
+client: GEQ
+category: Automatización de obtención de datos
+description: Pipeline para la obtención de coordenadaas geograficas a partir de direcciones con ayuda de una API.
+link: https://github.com/PinaXDbioinfo/Data-analyse-tools/tree/main/GeoCodeFlow
+---
