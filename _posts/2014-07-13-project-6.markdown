@@ -1,0 +1,13 @@
+---
+layout: default
+title: TraitTree
+modal-id: 6
+date: 2025-06-01
+img: example_plot.png
+alt: image-alt
+project-date: Junio 2025
+client: Proyecto de maestría
+category: Automatización de análisis de datos
+description: Script para generar la imagen de un árbol filogenético donde se represente en las taxas el valor de un caracter cuantitativo.
+link: https://github.com/PinaXDbioinfo/bioinformatic_tools/tree/main/TraitTree
+---
