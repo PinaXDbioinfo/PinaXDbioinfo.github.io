@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Monitoreo de la captura de clientes.
+title: Monitoreo de la captura de clientes
 modal-id: 2
 date: 2025-11-01
 img: prospeccion.png
