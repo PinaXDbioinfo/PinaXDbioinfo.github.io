@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BayesTraitsSummary
-modal-id: 4
+modal-id: 5
 date: 2025-04-01
 img: Example_output_traceplot.png
 alt: image-alt
