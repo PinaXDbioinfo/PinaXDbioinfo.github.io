@@ -1,0 +1,13 @@
+---
+layout: default
+title: BayesTraitsSummary
+modal-id: 4
+date: 2025-04-01
+img: Example_output_traceplot.png
+alt: image-alt
+project-date: Abril 2025
+client: Proyecto de maestría
+category: Automatización de análisis de datos
+description: Script automatizado en R y bash para hacer análisis postinferencia de reconstrucción de caracteres ancestrales cuantitativos provenientes de BayesTraits mediante métodos Bayesianos. Gráfica la distribución posterior y la traza, además de estimar HPDU, HPDL, ESS, medidas de tendencia central y prueba prueba de Heidelberger y Welch
+link: https://github.com/PinaXDbioinfo/bioinformatic_tools/tree/main/BayesTraitsSummary
+---
