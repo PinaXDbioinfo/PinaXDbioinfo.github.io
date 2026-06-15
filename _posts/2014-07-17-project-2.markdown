@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Monitoreo de la captura para la BDD
 modal-id: 2
 date: 2025-11-01
 img: prospeccion.png
