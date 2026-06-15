@@ -1,5 +1,6 @@
 ---
 layout: default
+title: ECDF Plotter para Comparación de Distribuciones
 modal-id: 4
 date: 2025-04-01
 img: ECDF_Output_example.png
