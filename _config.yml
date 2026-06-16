@@ -51,7 +51,7 @@ address:
   - line: Querétaro, Querétaro
 
 # Credits content
-credits: 'Esta página web fue diseñada basanda en una plantilla llamada Freelancer la cual es de libre uso. Presente en <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Esta página web fue diseñada basanda en una plantilla llamada Freelancer la cual es de libre uso. Link: <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
