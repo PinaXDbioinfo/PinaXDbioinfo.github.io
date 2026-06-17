@@ -486,3 +486,22 @@ footer .footer-below {
 .about-text {
     text-align: justify;
 }
+
+.paso{
+    margin-bottom: 40px;
+}
+
+.numero{
+    color: #ff6b35;     /* naranja */
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.paso h3{
+    font-size: 1.7em;
+}
+
+.paso p{
+    text-align: justify;
+}
