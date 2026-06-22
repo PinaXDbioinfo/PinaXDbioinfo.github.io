@@ -9,5 +9,6 @@ project-date: Febrero 2026
 client: Universidad Cuahutémoc
 category: Dashboard operativo
 description: Dashboard operativos para el monitoreo de llamadas y su efectividad de los asesores de contact center
+nota: Los datos que se muestran, por confidencialidad no son los datos reales son simulados para mostrar el funcionamiento del dashboard
 link: https://datastudio.google.com/reporting/9dd8bcd8-3c21-41a3-9f78-49e7cda743fa
 ---
