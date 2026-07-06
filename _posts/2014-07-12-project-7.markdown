@@ -9,6 +9,6 @@ project-date: Junio 2026
 client: GEQ
 category: Mapas
 description: Dashboard ejecutivo para visualizar la población por AGEB y por colonia del municipio de Querétaro. Contiene un mapa donde se visualizan las colonias y los AGEBs así como la información asociada a este como la colonia a la que pertenece el AGEB de acuerdo a la colonia en la que se concentra la mayor parte de su área y la población por AGEB y por colonia.
-Nota: Los datos que se muestran están públicos en INEGI y por confidencialidad no se muestra la información completa del proyecto y sus datos para el que se elebaoro el dashboard.
+nota: Los datos que se muestran están públicos en INEGI y por confidencialidad no se muestra la información completa del proyecto y sus datos para el que se elebaoro el dashboard.
 link: https://datastudio.google.com/reporting/e2417c13-1ec2-4b8b-8d6f-792ce27136e1
 ---
