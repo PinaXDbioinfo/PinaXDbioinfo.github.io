@@ -8,6 +8,6 @@ alt: image-alt
 project-date: Abril 2026
 client: GEQ
 category: Automatización de obtención de datos
-description: Pipeline para la obtención de coordenadaas geograficas a partir de direcciones con ayuda de una API.
+description: Pipeline para la obtención de coordenadas geograficas a partir de direcciones con ayuda de una API.
 link: https://github.com/PinaXDbioinfo/Data-analyse-tools/tree/main/GeoCodeFlow
 ---
