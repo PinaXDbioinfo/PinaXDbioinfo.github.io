@@ -1,1 +1,14 @@
 
+---
+layout: default
+title: Test vocacional
+modal-id: 9
+date: 2026-01-01
+img: Prueba_dominancia.png
+alt: image-alt
+project-date: Enero 2026
+client: Universidad Cuauhtémoc Querétaro
+category: Aplicación
+description: Test vocacional para el departamento de admisiones para canalizar a los aspirantes a algún programa académico de la universidad.
+link: 
+---
