@@ -2,7 +2,11 @@
 title: "Piña Data Lab"
 email: jeramirezp.pdl@gmail.com
 url: "https://pinaxdbioinfo.github.io"
-description: "Consultoría en Análisis de Datos e Inteligencia de Negocio"
+# Es muy recomendable activar el plugin oficial de SEO de Jekyll si tu hosting lo soporta:
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+description: "Consultoría en Análisis de Datos e Inteligencia de Negocio. Automatización de reportes, encuestas, análisis estadistico, dashboards, creación de sitios web"
 keywords: "Dashboard, bioinformatica, Análisis de datos, estadistica"
 skills: "¿Necesitas convertir tus datos en mejores decisiones? Si buscas dar un mejor seguimiento a tu negocio, entender a tus clientes, automatizar reportes, visualizar indicadores o analizar datos complejos, puedo ayudarte. Desde desarrollo de dashboards, creación de sitios web, automatización de procesos, análisis estadístico hasta soluciones de bioinformática para emprendimientos, pymes, instituciones y proyectos de investigación."
 meta_author: José Emilio Ramírez Piña
